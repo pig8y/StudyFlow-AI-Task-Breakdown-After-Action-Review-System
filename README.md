@@ -6,20 +6,20 @@ Assist student to break long-term goal into daily executable task, provide daily
 
 ## Core function
 
-### Create study goal 
+#### Create study goal 
 
 - based on what user attempt to achieve
 
-### Create daliy and weekly task board
+#### Create daliy and weekly task board
 
 - each daliy task should have its time listed
 - able to create by itself or using AI to breakdown the task
 
-### Manage task progress (visualisation applied)
+#### Manage task progress (visualisation applied)
 
-### AAR visualisation
+#### AAR visualisation
 
-### Give suggestion and adjustment after day/week
+#### Give suggestion and adjustment after day/week
 
 ## Tech Stack
 
