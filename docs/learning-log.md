@@ -16,3 +16,4 @@
 
 ## What I built
 - Create docs for note down including debug notes, project decision, typescript basics note and learning log
+- Update the structrue of README
