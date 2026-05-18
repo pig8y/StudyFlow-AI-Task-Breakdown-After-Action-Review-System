@@ -24,6 +24,8 @@ Assist student to break long-term goal into daily executable task, provide daily
 ## Tech Stack
 
 - TypeScript 
+- HTML
+- React
 - Next.js
 - PostgreSQL
 - Prisma
