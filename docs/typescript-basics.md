@@ -16,7 +16,7 @@ let age = 20
 age = 21
 
 const age = 20
-age = 21 //not allowed
+age = 21 //not al2wed
 
 ## Types
 
@@ -114,6 +114,7 @@ type Task = {
         title: string;
         completed: boolean;
 };
+You can open a file to declare any interface you'll use
 
 ## Optional property
 
@@ -211,4 +212,28 @@ Javascript/Typescript:
 const message = `Hello ${name}`
 
 ## async, await
-Definition
+Defintion: they are pair used for handle await operation
+async function getUser() {
+        return "Tom"
+}
+
+async function main() {
+        const result = getUser()
+        const user = await getUser()
+        console.log(result) // Promise {"Tom"}
+        console.log(user) // Tom
+}
+
+## export, import
+
+export type Task = {
+        id: number;
+        title: string;
+        status: TaskStatus;
+}
+
+import type {task} from "./types"
+
+export function add(a, b) => a + b
+
+import {add} from "./math"
