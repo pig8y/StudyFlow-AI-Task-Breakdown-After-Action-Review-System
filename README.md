@@ -25,6 +25,7 @@ Assist student to break long-term goal into daily executable task, provide daily
 
 - TypeScript 
 - HTML
+- CSS
 - React
 - Next.js
 - PostgreSQL
