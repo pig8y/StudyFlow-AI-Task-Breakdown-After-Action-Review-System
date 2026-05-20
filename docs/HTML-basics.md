@@ -17,7 +17,7 @@ Two section, head and body
 
 ## Hyperlinks
 Hyperlinks is a URL that you can attachedto a certain text, image
-<a href="http://www.thelink.com"> <!--element--> </a>
+<a href="http://www.thelinkyouwantogo.com"> <!--element--> </a>
 
 add "target=_blank" takes the user to linke with new tab
 add "title="msg"" gives description regarding the hyperlinks
@@ -25,3 +25,20 @@ add "title="msg"" gives description regarding the hyperlinks
 People use hyperlinks in their website to switch different page
 
 ## Image
+<img src="image address">
+height: adjusting the size of the img with given value, automatically adjust both height and width and keeps the ratio 
+alt: the description about the image for user that failed to load the image or just better understanding about the image
+title: give description when cursor stays on the image
+
+## List
+Three types of list
+- Unordered
+- Ordered
+- Description
+
+Every list starts with it own tag declaration -- <ul>/<ol>/<dl>
+<li>: tags for the item you are storing
+<dt>: description term (for dl) the name/term/item that want to describe
+<dd>: description details, the description about the item
+
+## Form
